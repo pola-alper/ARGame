@@ -5,5 +5,4 @@ Its Augmented Reality demo Using vuforia SDK With Unity
 * Vuforia
 * Unity
 # Demo Video
-[![Watch the video](https://youtu.be/ZY-5XiVNzM8)
-[![Alt text for your video](https://youtu.be/ZY-5XiVNzM8)
+ Youtube: https://youtu.be/ZY-5XiVNzM8
