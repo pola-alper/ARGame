@@ -1,6 +1,6 @@
 # ARGame
 # About
-Its Augmented Reality demo Using vuforia SDK With Unity
+Its Augmented Reality demo Using vuforia SDK With Unity by using object tracking in this sample i am using 100 rupees bill to track it and insert the object above it
 # Technologies used
 * Vuforia
 * Unity
